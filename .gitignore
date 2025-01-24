@@ -1,0 +1,13 @@
+#Environement files
+.env
+
+#Virual environments
+venv/
+env/
+.venv/
+
+#chunks & encodings
+/*.json
+
+.DS_Store
+
