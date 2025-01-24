@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 # 4. Configure the Repository for Analysis
-Replace the contents of the data/ folder (located in the root directory) with the repository you want the chatbot to analyze.
+Replace the contents of the "data/" folder (located in the root directory) with the repository you want the chatbot to analyze.
 
 # 5. Run the chatbot
 ```sh
