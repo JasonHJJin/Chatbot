@@ -6,7 +6,7 @@ This chatbot analyzes code in the 'data' folder, referencing relevant segments t
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/Chatbot.git
+git clone https://github.com/JasonHJJin/Chatbot.git
 cd Chatbot
 ```
 
@@ -30,7 +30,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Configure the Repository for Analysis
-Replace the contents of the "data/" folder (located in the root directory) with the repository you want the chatbot to analyze.
+**Please replace the contents of the "data/" folder (located in the root directory) with the repository you want the chatbot to analyze.**
+**Please make sure .env is inside the root directory**
 
 ### 5. Run the chatbot
 ```sh
